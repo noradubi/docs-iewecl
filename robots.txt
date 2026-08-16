@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-fnrh61.cingbet138.site/sitemap.xml
